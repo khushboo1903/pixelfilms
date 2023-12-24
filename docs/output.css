@@ -1305,6 +1305,14 @@ video {
     width: 100vw;
   }
 
+  .sm\:w-\[80\%\] {
+    width: 80%;
+  }
+
+  .sm\:w-\[50\%\] {
+    width: 50%;
+  }
+
   .sm\:items-center {
     align-items: center;
   }
